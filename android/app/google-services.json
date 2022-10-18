@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906383475806",
+    "project_id": "projectnew-ef512",
+    "storage_bucket": "projectnew-ef512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906383475806:android:217e12182deebe9179e0cf",
+        "android_client_info": {
+          "package_name": "com.emailauthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906383475806-t3lh9qstj64g89807avsd3ld2tubv91m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoCOCvjPuKUaZeqYRvkbkKceUeBSji2Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906383475806-t3lh9qstj64g89807avsd3ld2tubv91m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
